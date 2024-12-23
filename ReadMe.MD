@@ -5,7 +5,7 @@ Description: Built on blacklanternsecurity/kali-setup-script to aumate and setup
 
 ## How-To
 ```bash
-curl -k -s https://raw.githubusercontent.com/SubZe3r0/Kali-Linux-Setup/main/KaliSetup.sh | bash
+curl -k -s https://raw.githubusercontent.com/SubZe3r0/CyberSecurity/refs/heads/main/Linux/Scripting/linux-setup.sh | bash
 ```
 
 ## Feature List
